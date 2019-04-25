@@ -44,7 +44,7 @@ nav{
   padding-top: 10px;
   padding-bottom: 5px;
   position: absolute, static;
-  top: 0px;
+  margin-top: 0px;
 }
 nav a{
   color: black;
@@ -90,7 +90,7 @@ li:hover {
   margin-top: 1%;
   margin-left: 5%;
   margin-right: 5%;
-  
+
 }
 @media screen and (max-width: 959px){
   nav{
